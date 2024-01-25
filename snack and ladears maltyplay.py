@@ -5,9 +5,6 @@ def rool():
     return random.randint(1,6)
 def first(first_playear):
     Firat_new_poaiahion = 0
-    # for _ in range(100):
-      #secon playear
-     # input("press the enter ")
     first_playear = rool()
     Firat_new_poaiahion += first_playear
     if Firat_new_poaiahion == 100:
