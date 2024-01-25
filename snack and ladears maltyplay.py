@@ -1,4 +1,5 @@
 import random
+#add the snack and ladears key values
 snack_and_ladears = {27:5,40 :3 ,43:18,54:31,66:45,76:58,89:53,99:41,
                  4:25,13:46,33:49,50:69,42:63,62:81,74:92}
 def rool():
